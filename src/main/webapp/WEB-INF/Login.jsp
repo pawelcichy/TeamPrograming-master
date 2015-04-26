@@ -9,5 +9,22 @@
 </head>
 <body>
 ${title}
+<form action="">
+First name:<br>
+<input type="text" name="firstname">
+<br>
+Last name:<br>
+<input type="text" name="lastname">
+</form>
+<form action="">
+Login:<br>
+<input type="text" name="login">
+<br>
+password:<br>
+<input type="text" name="password">
+<br>
+email:<br>
+<input type="text" name="email">
+</form>
 </body>
 </html>
