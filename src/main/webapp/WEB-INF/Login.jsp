@@ -8,23 +8,18 @@
 <title>Insert title here</title>
 </head>
 <body>
+<div align="center">
 ${title}
-<form action="">
-First name:<br>
-<input type="text" name="firstname">
+</div>
+<div align="center">
 <br>
-Last name:<br>
-<input type="text" name="lastname">
-</form>
 <form action="">
 Login:<br>
 <input type="text" name="login">
 <br>
 password:<br>
 <input type="text" name="password">
-<br>
-email:<br>
-<input type="text" name="email">
 </form>
+</div>
 </body>
 </html>
